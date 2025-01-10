@@ -29,7 +29,7 @@ while ($true) {
     if ($counter1 -gt 100) { $counter1 = 1 }
     if ($counter2 -gt 100) { $counter2 = 1 }
 
-    # 1秒待機
+    # 100ms秒待機
     Start-Sleep -Milliseconds 100
 }
 
