@@ -1,5 +1,5 @@
 # POST_JSON_TEST
-HTTP POST method TEST
+HTTP POST method TEST for Windows PowerShell
 
 特定のアドレスにあるNode-REDサーバーURLに対して、HTTP通信によるPOSTメソッドでJSONデータを100ms毎に送信する。
 
