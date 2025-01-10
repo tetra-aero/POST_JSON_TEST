@@ -1,3 +1,5 @@
+# ターゲットのNode-REDサーバーURL (local 自呼び)
+# $uri = "http://localhost:1880/json-data"
 # ターゲットのNode-REDサーバーURL
 $uri = "http://192.168.0.21:1880/json-data"
 
